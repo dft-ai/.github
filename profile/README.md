@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo2.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/logo1.png">
-    <img alt="DFT Software" src="assets/logo1.png" width="720">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/logo2.png">
+    <img alt="DFT Software" src="assets/logo1.png" width="500">
   </picture>
 </p>
 

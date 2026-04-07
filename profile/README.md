@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo1.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/logo2.png">
-    <img alt="DFT Software" src="assets/logo1.png" width="500">
+    <img alt="DFT Software" src="https://avatars.githubusercontent.com/u/268167823" width="500">
   </picture>
 </p>
 
